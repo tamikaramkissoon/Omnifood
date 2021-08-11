@@ -14,6 +14,9 @@
 
 ## Overview
 Omnifood is a fictional food delivery service that allow customers to view and purchase meals via the Omnifood website.
+
+ Link to Omnifood website:  https://omnifood-tamika-ramkissoon.netlify.app/
+
 * The website is fully responsive to all devices
 * Search engine optimization
 * Web performance optimization - site speed
